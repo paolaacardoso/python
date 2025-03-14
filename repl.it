@@ -1,0 +1,18 @@
+print("ola aluno! bem vindo!!")
+help(print)
+print("Brasil", "ganhou", 5, "titulos mundiais", end="")
+pais = "Italia"
+quantidade = 4
+print(pais, "ganhou", quantidade, "titulos mundiais")
+type(pais)
+type(quantidade)
+<class 'str'>
+<class 'int'>
+pais = "Brasil"
+type(pais)
+<class 'str'>
+str pais = "Brasil"
+pais = "Brasil"
+type(pais)
+pais = 644
+type(pais)
